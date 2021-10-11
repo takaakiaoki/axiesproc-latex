@@ -3,7 +3,7 @@
 大学ICT推進協議会(AXIES)年次大会予稿集のテンプレートです.
 
 - axies のページ: http://axies.jp/
-- 年次大会の案内: http://axies.jp/ja/conf
+- 年次大会の案内: http://axies.jp/conf
 
 ## 利用方法
 
@@ -33,4 +33,4 @@ TeXLive 2015 on Windows で動作環境を行っています.
 
 また, 改善点等ございましたらお教えください. 随時改善するか, コミット権を差し上げます.
 
-Takaaki AOKI, Kyoto Univ.
+Takaaki AOKI
